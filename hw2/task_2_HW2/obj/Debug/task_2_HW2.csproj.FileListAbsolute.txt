@@ -1,0 +1,6 @@
+D:\geekbrains\Lesson2\hw2\task_2_HW2\bin\Debug\task_2_HW2.exe.config
+D:\geekbrains\Lesson2\hw2\task_2_HW2\bin\Debug\task_2_HW2.exe
+D:\geekbrains\Lesson2\hw2\task_2_HW2\bin\Debug\task_2_HW2.pdb
+D:\geekbrains\Lesson2\hw2\task_2_HW2\obj\Debug\task_2_HW2.csproj.CoreCompileInputs.cache
+D:\geekbrains\Lesson2\hw2\task_2_HW2\obj\Debug\task_2_HW2.exe
+D:\geekbrains\Lesson2\hw2\task_2_HW2\obj\Debug\task_2_HW2.pdb
